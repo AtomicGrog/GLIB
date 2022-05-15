@@ -1,4 +1,4 @@
-local graphics = require("lib.graphics.graphics")
+local graphics = require("lib.nidas.graphics.graphics")
 local component = require("component")
 local event = require("event")
 local renderer = {}

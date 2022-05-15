@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67c18f46-1342-417a-8a7c-3380f9025364" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/lib/glib/graphics/nidas/ar.lua" beforeDir="false" afterPath="$PROJECT_DIR$/lib/nidas/graphics/ar.lua" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/glib/graphics/nidas/colors.lua" beforeDir="false" afterPath="$PROJECT_DIR$/lib/nidas/graphics/colors.lua" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/glib/graphics/nidas/documentation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lib/nidas/graphics/documentation.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/glib/graphics/nidas/graphics.lua" beforeDir="false" afterPath="$PROJECT_DIR$/lib/nidas/graphics/graphics.lua" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/glib/graphics/nidas/gui.lua" beforeDir="false" afterPath="$PROJECT_DIR$/lib/nidas/graphics/gui.lua" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/glib/graphics/nidas/render.lua" beforeDir="false" afterPath="$PROJECT_DIR$/lib/nidas/graphics/render.lua" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/glib/graphics/nidas/renderer.lua" beforeDir="false" afterPath="$PROJECT_DIR$/lib/nidas/graphics/renderer.lua" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/glib/utils/nidas/inherits.lua" beforeDir="false" afterPath="$PROJECT_DIR$/lib/nidas/utils/nidas/inherits.lua" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/glib/utils/nidas/machine-data.lua" beforeDir="false" afterPath="$PROJECT_DIR$/lib/nidas/utils/nidas/machine-data.lua" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/glib/utils/nidas/new.lua" beforeDir="false" afterPath="$PROJECT_DIR$/lib/nidas/utils/nidas/new.lua" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/glib/utils/nidas/parser.lua" beforeDir="false" afterPath="$PROJECT_DIR$/lib/nidas/utils/nidas/parser.lua" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/glib/utils/nidas/screen.lua" beforeDir="false" afterPath="$PROJECT_DIR$/lib/nidas/utils/nidas/screen.lua" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/glib/utils/nidas/time.lua" beforeDir="false" afterPath="$PROJECT_DIR$/lib/nidas/utils/nidas/time.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/nidas/graphics/ar.lua" beforeDir="false" afterPath="$PROJECT_DIR$/lib/nidas/graphics/ar.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/nidas/graphics/gui.lua" beforeDir="false" afterPath="$PROJECT_DIR$/lib/nidas/graphics/gui.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/nidas/graphics/renderer.lua" beforeDir="false" afterPath="$PROJECT_DIR$/lib/nidas/graphics/renderer.lua" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,11 +30,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/nidas/utils" />
       <recent name="$PROJECT_DIR$/lib/nidas/graphics" />
       <recent name="$PROJECT_DIR$/lib" />
       <recent name="$PROJECT_DIR$/lib/glib/nidas" />
       <recent name="$PROJECT_DIR$/lib/glib/utils" />
-      <recent name="$PROJECT_DIR$/lib/glib" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -100,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652650864721</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="refactor nidas libraries">
+      <created>1652650998020</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652650998020</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

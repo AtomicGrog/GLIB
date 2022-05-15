@@ -1,5 +1,5 @@
-local screen = require("lib.utils.screen")
-local colors = require("lib.graphics.colors")
+local screen = require("lib.nidas.utils.screen")
+local colors = require("lib.nidas.graphics.colors")
 
 local arGraphics = {}
 

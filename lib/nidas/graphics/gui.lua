@@ -1,9 +1,9 @@
-local graphics = require("lib.graphics.graphics")
-local colors    = require("lib.graphics.colors")
+local graphics = require("lib.nidas.graphics.graphics")
+local colors    = require("lib.nidas.graphics.colors")
 local event = require("event")
 local uc = require("unicode")
-local renderer = require("lib.graphics.renderer")
-local parser = require("lib.utils.parser")
+local renderer = require("lib.nidas.graphics.renderer")
+local parser = require("lib.nidas.utils.parser")
 local gui = {}
 
 local borderColor = colors.gray
