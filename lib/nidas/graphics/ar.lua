@@ -11,10 +11,12 @@ local function RGB(hex)
 end
 
 
---HUD Drawing functions:
+--HUD Drawing functions (OpenComputers OpenGlasses):
+--
 --Verticex (v_) are a table with the X and Y values {x, y}. Colours are given as hex values. Alpha is 0.0 to 1.0.
 --The first vertex is always the top left corner.
 --Functions return an identifier to the object created.
+--
 function arGraphics.triangle(glasses, v1, v2, v3, color, alpha)
     alpha = alpha or 1.0
     local triangle = glasses.addTriangle()
