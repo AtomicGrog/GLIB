@@ -1,0 +1,1 @@
+This folder is expected to contain the core config/settings for the glib capability
